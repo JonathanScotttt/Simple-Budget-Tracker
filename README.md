@@ -9,7 +9,7 @@ Future planned upgrades include an income tracker, monthly breakdowns, as well a
 
 ## How to use
 1. Enter monthly expenses in `budget.csv`
-2. Run: 'python-budget-tracker.py'
+2. Run: 'budget-tracker.py'
 
 ## Example Output
 
