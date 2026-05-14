@@ -13,9 +13,12 @@ Future planned upgrades include an income tracker, monthly breakdowns, as well a
 
 ## Example Output
 
-TOTAL SPENDING: 4100
+TOTAL SPENDING: 109980
 
 BY CATEGORY:
-Food : 2000
+Food : 22000
 Transport : 500
-Bills : 600
+Bills : 50000
+Living Expenses : 4600
+Leisure : 6000
+Other : 0
